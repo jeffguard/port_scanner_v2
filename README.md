@@ -1,6 +1,6 @@
 # Port Scanner Web App
 
-Simple scanner UI.  
+Open new project in PyCharm and import in. 
 Run with:
 ```
 pip install flask flask-socketio
